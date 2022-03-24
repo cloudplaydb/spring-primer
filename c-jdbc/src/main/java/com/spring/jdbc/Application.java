@@ -1,13 +1,13 @@
-package com.spring.aoc;
+package com.spring.jdbc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BAocApplication {
+public class Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(BAocApplication.class, args);
+        SpringApplication.run(Application.class, args);
     }
 
 }

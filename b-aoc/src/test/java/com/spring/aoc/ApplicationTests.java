@@ -1,10 +1,10 @@
-package com.spring.jdbc;
+package com.spring.aoc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CJdbcApplicationTests {
+class ApplicationTests {
 
     @Test
     void contextLoads() {
